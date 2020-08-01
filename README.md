@@ -1,6 +1,6 @@
-# mi_peluqueria_02
+# act02_my_card
 
-Mi peluqueria 02
+A new Flutter application.
 
 ## Getting Started
 

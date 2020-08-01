@@ -1,4 +1,4 @@
-package me.techandgar.mi_peluqueria_02
+package me.techandgar.act02_my_card
 
 import io.flutter.embedding.android.FlutterActivity
 

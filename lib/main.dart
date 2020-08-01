@@ -75,6 +75,7 @@ class MyApp extends StatelessWidget {
                       color: Colors.lightBlue[900],
                       fontFamily: 'Noto Sans PT',
                       fontSize: 15,
+                      fontWeight: FontWeight.bold
                     ),
                   ),
                 ),
@@ -96,6 +97,7 @@ class MyApp extends StatelessWidget {
                       color: Colors.lightBlue[900],
                       fontFamily: 'Noto Sans PT',
                       fontSize: 15,
+                      fontWeight: FontWeight.bold
                     ),
                   ),
                 ),
